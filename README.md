@@ -1,7 +1,7 @@
 # MOCAM-720-01-Custom-setup-tool
 A custom setup script for the Momentum Axel 720 (MOCAM 720-01) WiFi Camera
 
-This script will all you to setup your camera without using the mobile apps provided by the manufacturer.
+This script will allow you to setup your camera without using the mobile apps provided by the manufacturer.
 It allows the user to send custom cloud urls to the camera as well as see the device id of the camera. List available wifi networks. And connect the camera to a wifi network.
 
 Command:
